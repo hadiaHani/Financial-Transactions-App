@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "314070346795",
+    "project_id": "analyticsassignment-4a12f",
+    "storage_bucket": "analyticsassignment-4a12f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314070346795:android:ffe79ce8834d661f4b0e6e",
+        "android_client_info": {
+          "package_name": "com.example.fruit_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314070346795-ndhodrrft9ithilhkt7s65fa46kkj668.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfgLGJzOKSZqeZuZJCGP_HAcWP7-rKr2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314070346795-ndhodrrft9ithilhkt7s65fa46kkj668.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314070346795:android:459194ebcca9acf44b0e6e",
+        "android_client_info": {
+          "package_name": "com.example.g_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314070346795-ndhodrrft9ithilhkt7s65fa46kkj668.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfgLGJzOKSZqeZuZJCGP_HAcWP7-rKr2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314070346795-ndhodrrft9ithilhkt7s65fa46kkj668.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314070346795:android:689f270560b091c84b0e6e",
+        "android_client_info": {
+          "package_name": "com.example.jerusalemnewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314070346795-ndhodrrft9ithilhkt7s65fa46kkj668.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfgLGJzOKSZqeZuZJCGP_HAcWP7-rKr2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314070346795-ndhodrrft9ithilhkt7s65fa46kkj668.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314070346795:android:6d412fcd87108bf44b0e6e",
+        "android_client_info": {
+          "package_name": "com.example.phone_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314070346795-ndhodrrft9ithilhkt7s65fa46kkj668.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfgLGJzOKSZqeZuZJCGP_HAcWP7-rKr2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314070346795-ndhodrrft9ithilhkt7s65fa46kkj668.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
